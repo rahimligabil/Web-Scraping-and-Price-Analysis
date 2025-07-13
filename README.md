@@ -3,7 +3,6 @@
 This project is a **Python-based web scraping tool** built with **Selenium** and **BeautifulSoup** to automate the process of collecting and analyzing **product prices** from e-commerce websites.  
 It enables **competitor price tracking**, data extraction, and basic analysis to support business intelligence and pricing strategy.
 
----
 
 ## Features
 
@@ -13,8 +12,6 @@ It enables **competitor price tracking**, data extraction, and basic analysis to
 -  Parses HTML with BeautifulSoup for reliable data extraction
 -  Outputs data as CSV or JSON for analysis
 -  Designed for price monitoring, competitor analysis, and market research
-
----
 
 ## Technologies Used
 
