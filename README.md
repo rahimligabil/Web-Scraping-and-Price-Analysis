@@ -12,6 +12,7 @@ It enables **competitor price tracking**, data extraction, and basic analysis to
 -  Parses HTML with BeautifulSoup for reliable data extraction
 -  Outputs data as CSV or JSON for analysis
 -  Designed for price monitoring, competitor analysis, and market research
+-  Automization
 
 ## Technologies Used
 
